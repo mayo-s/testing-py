@@ -1,9 +1,0 @@
-
-.DS_Store
-*.meta
-*.swf
-/bin
-/js
-/py/__pycache__
-
-
